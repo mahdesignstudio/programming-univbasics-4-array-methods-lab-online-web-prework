@@ -1,8 +1,8 @@
 def using_include(array, element)
 
-array.include? ("learning")
+array.include? ("element1")
 
-array.include? ("Tardis")
+array.include? ("element2")
 
 end
 
