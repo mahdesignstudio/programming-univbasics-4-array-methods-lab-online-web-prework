@@ -1,5 +1,5 @@
 def using_include(array, element)
-array.include?("wow")
+array.include?
 end
 
 def using_sort(array)
@@ -19,5 +19,5 @@ array.last
 end
 
 def using_size(array)
-
+array.size 
 end
